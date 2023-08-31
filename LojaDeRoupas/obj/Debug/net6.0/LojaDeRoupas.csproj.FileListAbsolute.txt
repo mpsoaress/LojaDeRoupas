@@ -1,0 +1,29 @@
+C:\Users\marco\OneDrive\Documentos\Faculdade\3o periodo\POO\LojaDeRoupas\LojaDeRoupas\bin\Debug\net6.0\LojaDeRoupas.exe
+C:\Users\marco\OneDrive\Documentos\Faculdade\3o periodo\POO\LojaDeRoupas\LojaDeRoupas\bin\Debug\net6.0\LojaDeRoupas.deps.json
+C:\Users\marco\OneDrive\Documentos\Faculdade\3o periodo\POO\LojaDeRoupas\LojaDeRoupas\bin\Debug\net6.0\LojaDeRoupas.runtimeconfig.json
+C:\Users\marco\OneDrive\Documentos\Faculdade\3o periodo\POO\LojaDeRoupas\LojaDeRoupas\bin\Debug\net6.0\LojaDeRoupas.dll
+C:\Users\marco\OneDrive\Documentos\Faculdade\3o periodo\POO\LojaDeRoupas\LojaDeRoupas\bin\Debug\net6.0\LojaDeRoupas.pdb
+C:\Users\marco\OneDrive\Documentos\Faculdade\3o periodo\POO\LojaDeRoupas\LojaDeRoupas\obj\Debug\net6.0\LojaDeRoupas.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\Documentos\Faculdade\3o periodo\POO\LojaDeRoupas\LojaDeRoupas\obj\Debug\net6.0\LojaDeRoupas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Documentos\Faculdade\3o periodo\POO\LojaDeRoupas\LojaDeRoupas\obj\Debug\net6.0\LojaDeRoupas.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Documentos\Faculdade\3o periodo\POO\LojaDeRoupas\LojaDeRoupas\obj\Debug\net6.0\LojaDeRoupas.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Documentos\Faculdade\3o periodo\POO\LojaDeRoupas\LojaDeRoupas\obj\Debug\net6.0\LojaDeRoupas.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Documentos\Faculdade\3o periodo\POO\LojaDeRoupas\LojaDeRoupas\obj\Debug\net6.0\LojaDeRoupas.dll
+C:\Users\marco\OneDrive\Documentos\Faculdade\3o periodo\POO\LojaDeRoupas\LojaDeRoupas\obj\Debug\net6.0\refint\LojaDeRoupas.dll
+C:\Users\marco\OneDrive\Documentos\Faculdade\3o periodo\POO\LojaDeRoupas\LojaDeRoupas\obj\Debug\net6.0\LojaDeRoupas.pdb
+C:\Users\marco\OneDrive\Documentos\Faculdade\3o periodo\POO\LojaDeRoupas\LojaDeRoupas\obj\Debug\net6.0\LojaDeRoupas.genruntimeconfig.cache
+C:\Users\marco\OneDrive\Documentos\Faculdade\3o periodo\POO\LojaDeRoupas\LojaDeRoupas\obj\Debug\net6.0\ref\LojaDeRoupas.dll
+C:\Users\huugo\Documents\UTFPR\LojaDeRoupas\LojaDeRoupas\bin\Debug\net6.0\LojaDeRoupas.exe
+C:\Users\huugo\Documents\UTFPR\LojaDeRoupas\LojaDeRoupas\bin\Debug\net6.0\LojaDeRoupas.deps.json
+C:\Users\huugo\Documents\UTFPR\LojaDeRoupas\LojaDeRoupas\bin\Debug\net6.0\LojaDeRoupas.runtimeconfig.json
+C:\Users\huugo\Documents\UTFPR\LojaDeRoupas\LojaDeRoupas\bin\Debug\net6.0\LojaDeRoupas.dll
+C:\Users\huugo\Documents\UTFPR\LojaDeRoupas\LojaDeRoupas\bin\Debug\net6.0\LojaDeRoupas.pdb
+C:\Users\huugo\Documents\UTFPR\LojaDeRoupas\LojaDeRoupas\obj\Debug\net6.0\LojaDeRoupas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huugo\Documents\UTFPR\LojaDeRoupas\LojaDeRoupas\obj\Debug\net6.0\LojaDeRoupas.AssemblyInfoInputs.cache
+C:\Users\huugo\Documents\UTFPR\LojaDeRoupas\LojaDeRoupas\obj\Debug\net6.0\LojaDeRoupas.AssemblyInfo.cs
+C:\Users\huugo\Documents\UTFPR\LojaDeRoupas\LojaDeRoupas\obj\Debug\net6.0\LojaDeRoupas.csproj.CoreCompileInputs.cache
+C:\Users\huugo\Documents\UTFPR\LojaDeRoupas\LojaDeRoupas\obj\Debug\net6.0\LojaDeRoupas.dll
+C:\Users\huugo\Documents\UTFPR\LojaDeRoupas\LojaDeRoupas\obj\Debug\net6.0\refint\LojaDeRoupas.dll
+C:\Users\huugo\Documents\UTFPR\LojaDeRoupas\LojaDeRoupas\obj\Debug\net6.0\LojaDeRoupas.pdb
+C:\Users\huugo\Documents\UTFPR\LojaDeRoupas\LojaDeRoupas\obj\Debug\net6.0\LojaDeRoupas.genruntimeconfig.cache
+C:\Users\huugo\Documents\UTFPR\LojaDeRoupas\LojaDeRoupas\obj\Debug\net6.0\ref\LojaDeRoupas.dll
